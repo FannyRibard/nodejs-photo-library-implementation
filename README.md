@@ -1,4 +1,5 @@
-## Photo library implementation
+## About the project
+### Photo library implementation
 This project allows to create and manage a photo library. It allows to create/remove albums, then add/remove photos inside. It is a mix between development backend and frontend.
 
 
@@ -20,7 +21,7 @@ This project allows to create and manage a photo library. It allows to create/re
 Fanny Ribard - [@linkedin](https://www.linkedin.com/in/fanny-ribard/) - fanny.ribard@gmail.com
 
 
-## Screenshot
+## Screenshots
 
 ### Example of albums list
 ![Albums page][albums-screenshot]
