@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <%- include('partials/head') %>
+    </head>
+    <body>
+        <%- include('partials/nav') %>
+
+        <div class="container">
+            <div class="row mt-4">
+                <a href="/albums/<%= album._id %>" class="mt-4">&lt; Retour</a>
+                <div class="col">
+                    <h1 class="mb-4"><%= album.title %></h1>
+                </div>
+            </div>
+            <div class="row mt-4">
+                <img src="/uploads/<%= album._id %>/<%= image %>" alt="<%= image %>">
+            </div>
+        </div>
+
+        <%- include('partials/scripts') %>
+    </body>
+</html>
