@@ -33,10 +33,10 @@ Fanny Ribard - [@linkedin](https://www.linkedin.com/in/fanny-ribard/) - fanny.ri
 [albums-screenshot]: images-readme/Albums-page.png
 [album-screenshot]: images-readme/Album-page.png
 [Nodejs-badge]: https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white
-[Nodejs-url]: Nodejs.org
+[Nodejs-url]: https://nodejs.org/fr
 [Mongodb-badge]: https://img.shields.io/badge/MongoDB-5FA04E?style=for-the-badge&logo=mongodb&logoColor=white
 [Mongodb-url]: https://www.mongodb.com/
 [Ejs-badge]: https://img.shields.io/badge/Ejs-B4CA65?style=for-the-badge&logo=ejs&logoColor=white
 [Ejs-url]: https://ejs.co/
 [Bootstrap-badge]: https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://ejs.co/
+[Bootstrap-url]: https://getbootstrap.com/
